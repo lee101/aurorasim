@@ -8,6 +8,7 @@
     "test:compare": "node test/compare-images.js",
     "test:report": "node test/generate-report.js",
     "test:all": "node test/render-test.js && node test/compare-images.js && node test/generate-report.js",
+    "visual:benchmark": "node test/visual-benchmark.js",
     "fetch-references": "node test/fetch-references.js"
   },
   "devDependencies": {

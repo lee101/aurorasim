@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-05-10T13:24:24.924Z",
+  "config": {
+    "width": 1600,
+    "height": 1000,
+    "frames": [
+      {
+        "time": 0,
+        "name": "review_000_arrival"
+      },
+      {
+        "time": 6,
+        "name": "review_006_flap"
+      },
+      {
+        "time": 13,
+        "name": "review_013_radial_curtains"
+      },
+      {
+        "time": 21,
+        "name": "review_021_breakup"
+      },
+      {
+        "time": 34,
+        "name": "review_034_late_motion"
+      }
+    ]
+  },
+  "results": [
+    {
+      "time": 0,
+      "name": "review_000_arrival",
+      "path": "/Users/leepenkman/code/aurorasim/visual-benchmark/review_000_arrival.png"
+    },
+    {
+      "time": 6,
+      "name": "review_006_flap",
+      "path": "/Users/leepenkman/code/aurorasim/visual-benchmark/review_006_flap.png"
+    },
+    {
+      "time": 13,
+      "name": "review_013_radial_curtains",
+      "path": "/Users/leepenkman/code/aurorasim/visual-benchmark/review_013_radial_curtains.png"
+    },
+    {
+      "time": 21,
+      "name": "review_021_breakup",
+      "path": "/Users/leepenkman/code/aurorasim/visual-benchmark/review_021_breakup.png"
+    },
+    {
+      "time": 34,
+      "name": "review_034_late_motion",
+      "path": "/Users/leepenkman/code/aurorasim/visual-benchmark/review_034_late_motion.png"
+    }
+  ]
+}
